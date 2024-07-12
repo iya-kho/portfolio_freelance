@@ -126,6 +126,6 @@ export const projectsData = [
       link: '#Home',
       isActive: false
     },
-    codeLink: 'https://github.com/iya-kho/portfolio_upwork',
+    codeLink: 'https://github.com/iya-kho/portfolio_freelance',
   },
 ];
