@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://iya-kho.github.io/portfolio_upwork",
+  "homepage": "http://iya-kho.github.io/portfolio_freelance",
   "dependencies": {
     "@ant-design/icons": "^5.2.6",
     "@testing-library/jest-dom": "^5.17.0",
